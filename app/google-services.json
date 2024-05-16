@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "343739054899",
+    "project_id": "pamfirebaseizza",
+    "storage_bucket": "pamfirebaseizza.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343739054899:android:5b5a67a01426e6e6145c46",
+        "android_client_info": {
+          "package_name": "com.example.modulfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPx9BiJv2Gkvp8Jjb-MraeYfw5xVwa9fM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
